@@ -1,0 +1,25 @@
+@media (max-width: 600px) {
+  .hero-header {
+    font-size: 48px;
+  }
+  .hero-text {
+    font-size: 14px;
+  }
+  .cha-img {
+    width: 300px;
+  }
+  .about-header {
+    font-size: 48px;
+    line-height: 50px;
+  }
+  .about-text {
+    font-size: 18px;
+  }
+  .footer-text {
+    font-size: 14px;
+  }
+  .input-form {
+    width: 100%;
+    margin: 0 10px;
+  }
+}
